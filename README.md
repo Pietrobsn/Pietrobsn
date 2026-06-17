@@ -1,42 +1,25 @@
 # Olá, eu sou Vitor Pietro 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor focado em criar sistemas web práticos para negócios reais.
+Estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento web, SaaS, automação e sistemas de gestão.
 
-Atualmente desenvolvo projetos próprios envolvendo SaaS, automação, sistemas de gestão, APIs e chatbots.
+Atualmente crio projetos próprios para negócios reais, usando principalmente HTML, CSS, JavaScript, Python, Supabase, PostgreSQL, Git/GitHub e Netlify.
 
 ## Projetos principais
 
-### Barber Cloud
-SaaS para barbearias com agendamento online, painel administrativo, gestão de serviços, equipe, clientes e operação diária.
-
+**Barber Cloud**
+SaaS para barbearias com agendamento online, painel administrativo e gestão de serviços, equipe e clientes.
 Código privado por ser um produto comercial.
 
-### Comanda
-Sistema de gestão para restaurantes, pizzarias, delivery e comandas, com foco em pedidos, estoque, caixa e operação diária.
-
+**Comanda**
+Sistema para restaurantes, pizzarias e delivery, com foco em pedidos, comandas, estoque, caixa e operação diária.
 Código privado por ser um produto comercial.
 
 ## Projetos públicos
 
-### ApiForge
-Ferramenta para criação de APIs, endpoints CRUD e backends simulados usando Supabase.
-
-### Sabor ChatBot
-Chatbot para WhatsApp Cloud API com Flask, OpenAI opcional e memória local em SQLite.
-
-### MetaFit
-Projeto web desenvolvido com HTML, CSS e JavaScript.
-
-## Tecnologias
-
-- HTML, CSS e JavaScript
-- Python e Flask
-- SQL e PostgreSQL
-- Supabase
-- Git e GitHub
-- Netlify
-- Node.js
+**ApiForge** — criação de APIs, endpoints CRUD e backends simulados com Supabase.
+**Sabor ChatBot** — chatbot para WhatsApp Cloud API com Flask, OpenAI opcional e SQLite.
+**MetaFit** — projeto web desenvolvido com HTML, CSS e JavaScript.
 
 ## Objetivo
 
-Construir sistemas reais, evoluir como desenvolvedor e buscar oportunidades na área de Desenvolvimento Web / TI.
+Construir sistemas reais, evoluir como desenvolvedor e buscar oportunidades em Desenvolvimento Web / TI.
