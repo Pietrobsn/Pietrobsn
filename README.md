@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá, eu sou Vitor Pietro 👋
 
-<!--
-**Pietrobsn/Pietrobsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor focado em criar sistemas web práticos para negócios reais.
 
-Here are some ideas to get you started:
+Atualmente desenvolvo projetos próprios envolvendo SaaS, automação, sistemas de gestão, APIs e chatbots.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos principais
+
+### Barber Cloud
+SaaS para barbearias com agendamento online, painel administrativo, gestão de serviços, equipe, clientes e operação diária.
+
+Código privado por ser um produto comercial.
+
+### Comanda
+Sistema de gestão para restaurantes, pizzarias, delivery e comandas, com foco em pedidos, estoque, caixa e operação diária.
+
+Código privado por ser um produto comercial.
+
+## Projetos públicos
+
+### ApiForge
+Ferramenta para criação de APIs, endpoints CRUD e backends simulados usando Supabase.
+
+### Sabor ChatBot
+Chatbot para WhatsApp Cloud API com Flask, OpenAI opcional e memória local em SQLite.
+
+### MetaFit
+Projeto web desenvolvido com HTML, CSS e JavaScript.
+
+## Tecnologias
+
+- HTML, CSS e JavaScript
+- Python e Flask
+- SQL e PostgreSQL
+- Supabase
+- Git e GitHub
+- Netlify
+- Node.js
+
+## Objetivo
+
+Construir sistemas reais, evoluir como desenvolvedor e buscar oportunidades na área de Desenvolvimento Web / TI.
