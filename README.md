@@ -2,7 +2,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento web, SaaS, automação e sistemas de gestão.
 
-Atualmente crio projetos próprios para negócios reais, usando principalmente HTML, CSS, JavaScript, Python, Supabase, PostgreSQL, Git/GitHub e Netlify.
+Atualmente desenvolvo projetos próprios para negócios reais, usando principalmente HTML, CSS, JavaScript, Python, Supabase, PostgreSQL, Git/GitHub e Netlify.
 
 ## Projetos principais
 
