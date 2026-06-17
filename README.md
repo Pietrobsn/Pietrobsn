@@ -6,17 +6,23 @@ Atualmente crio projetos próprios para negócios reais, usando principalmente H
 
 ## Projetos principais
 
-**Barber Cloud** — SaaS para barbearias com agendamento online, painel administrativo e gestão de serviços, equipe e clientes. Código privado por ser um produto comercial.
+**Barber Cloud** — SaaS para barbearias com agendamento online, painel administrativo, gestão de serviços, equipe e clientes. Código privado por ser um produto comercial.
 
 **Comanda** — Sistema para restaurantes, pizzarias e delivery, com foco em pedidos, comandas, estoque, caixa e operação diária. Código privado por ser um produto comercial.
 
 ## Projetos públicos
+
+**Portfolio Pietro** — portfólio pessoal com projetos, experiências e contatos profissionais.
 
 **ApiForge** — criação de APIs, endpoints CRUD e backends simulados com Supabase.
 
 **Sabor ChatBot** — chatbot para WhatsApp Cloud API com Flask, OpenAI opcional e SQLite.
 
 **MetaFit** — projeto web desenvolvido com HTML, CSS e JavaScript.
+
+## Tecnologias
+
+HTML • CSS • JavaScript • Python • SQL • PostgreSQL • Supabase • Git/GitHub • Netlify • Node.js
 
 ## Objetivo
 
