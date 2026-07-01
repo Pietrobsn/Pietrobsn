@@ -2,15 +2,21 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento web, SaaS, automação e sistemas de gestão.
 
-Atualmente desenvolvo projetos próprios para negócios reais, usando principalmente HTML, CSS, JavaScript, Python, Supabase, PostgreSQL, Git/GitHub e Netlify.
+Atualmente desenvolvo sistemas web para negócios reais, usando principalmente HTML, CSS, JavaScript, Python, SQL, Supabase, PostgreSQL, Git/GitHub, Node.js e Netlify.
 
-## Projetos principais
+Tenho foco em criar soluções práticas para rotinas comerciais, como painéis administrativos, cadastros, agendamentos, pedidos, caixa, estoque, relatórios e automação de processos.
 
-**Barber Cloud** — SaaS para barbearias com agendamento online, painel administrativo, gestão de serviços, equipe e clientes. Código privado por ser um produto comercial.
+## Projetos em destaque
 
-**Comanda** — Sistema para restaurantes, pizzarias e delivery, com foco em pedidos, comandas, estoque, caixa e operação diária. Código privado por ser um produto comercial.
+**Barber Cloud Demo** — versão pública demonstrativa de um sistema para gestão de barbearias, com agendamentos, clientes, serviços, dashboard e dados fictícios em localStorage.  
+🔗 https://github.com/Pietrobsn/barber-cloud-demo
 
-## Projetos públicos
+**Comanda Demo** — versão pública demonstrativa de um sistema para restaurantes, pizzarias e delivery, com pedidos, comandas, cardápio, caixa, estoque, entregadores e impressão simulada.  
+🔗 https://github.com/Pietrobsn/comanda-demo
+
+> As versões oficiais/comerciais do Barber Cloud e Comanda são privadas. Os repositórios públicos acima são versões demonstrativas criadas exclusivamente para portfólio, sem dados reais, credenciais privadas ou integrações de produção.
+
+## Outros projetos públicos
 
 **Portfolio Pietro** — portfólio pessoal com projetos, experiências e contatos profissionais.
 
@@ -22,8 +28,8 @@ Atualmente desenvolvo projetos próprios para negócios reais, usando principalm
 
 ## Tecnologias
 
-HTML • CSS • JavaScript • Python • SQL • PostgreSQL • Supabase • Git/GitHub • Netlify • Node.js
+HTML • CSS • JavaScript • Python • SQL • PostgreSQL • Supabase • Git/GitHub • Node.js • Netlify • Power BI • Excel
 
-## Objetivo
+## O que estou buscando
 
-Construir sistemas reais, evoluir como desenvolvedor e buscar oportunidades em Desenvolvimento Web / TI.
+Oportunidades iniciais na área de tecnologia, desenvolvimento web, suporte técnico, banco de dados ou sistemas internos, onde eu possa aplicar meus projetos práticos, evoluir profissionalmente e contribuir com soluções reais.
